@@ -25,3 +25,7 @@ This sample can be used in coordination with client samples applications describ
 
 ### Supported Levels
 Persistent Mobile Foundation: `9.x.x - 10.0.0`
+
+Note
+
+Please switch to release-9x branch for older release.
