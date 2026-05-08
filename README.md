@@ -62,3 +62,7 @@ Sample server.xml
 
 ### Supported Levels
 Persistent Mobile Foundation: `10.1.0 and later`
+
+Note
+
+Please switch to release-9x branch for older release.
